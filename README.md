@@ -1,2 +1,2 @@
 # Drumkit
-basic javascript project
+basic javascript project.Fun way to create your own band.
