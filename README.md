@@ -1,1 +1,2 @@
-# drumkit
+# Drumkit
+basic javascript project
