@@ -14,6 +14,7 @@ for(var i=0 ; i<numofbuttons ; i++){
 
 
 // keyboard press
+
 document.addEventListener("keypress",function(event) {
 
     makeSound(event.key);
@@ -22,6 +23,7 @@ document.addEventListener("keypress",function(event) {
 
 });
 
+//sound effect
 
 function makeSound(key) {
     
